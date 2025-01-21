@@ -1,5 +1,4 @@
 # vue3-nodejs-frontend
-
 This project is a Vue 3 frontend application that interacts with a Node.js backend API.
 
 ## Project setup
