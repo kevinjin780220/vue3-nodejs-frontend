@@ -1,6 +1,9 @@
 const { defineConfig } = require("@vue/cli-service");
 // vue.config.js
 module.exports = {
+  // configureWebpack: {
+  //   devtool: "source-map",
+  //   },
   devServer: {
     proxy: {
       '/api': {
