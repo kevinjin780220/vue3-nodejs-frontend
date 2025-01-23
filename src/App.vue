@@ -15,6 +15,7 @@
 <script>
 import axios from 'axios';
 
+// Option API
 export default {
   data() {
     return {
